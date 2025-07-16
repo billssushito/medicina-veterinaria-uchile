@@ -1,6 +1,5 @@
 const malla = document.getElementById('malla');
 
-// Estructura con todos los semestres y ramos, con IDs únicos y prerequisitos según el PDF
 const datosMalla = [
   {
     semestre: "Semestre 1",
